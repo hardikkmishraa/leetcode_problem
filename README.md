@@ -30,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0053-maximum-subarray) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
