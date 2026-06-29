@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0053-maximum-subarray) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/hardikkmishraa/leetcode_problem/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/hardikkmishraa/leetcode_problem/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Greedy
 |  |
 | ------- |
@@ -35,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0009-palindrome-number) |
+## String
+|  |
+| ------- |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/hardikkmishraa/leetcode_problem/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 <!---LeetCode Topics End-->
