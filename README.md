@@ -20,17 +20,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/hardikkmishraa/leetcode_problem/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/hardikkmishraa/leetcode_problem/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/hardikkmishraa/leetcode_problem/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/hardikkmishraa/leetcode_problem/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/hardikkmishraa/leetcode_problem/tree/master/3620-network-recovery-pathways) |
 ## Greedy
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/hardikkmishraa/leetcode_problem/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/hardikkmishraa/leetcode_problem/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0912-sort-an-array) |
 | [1288-remove-covered-intervals](https://github.com/hardikkmishraa/leetcode_problem/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/hardikkmishraa/leetcode_problem/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/hardikkmishraa/leetcode_problem/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -42,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0509-fibonacci-number) |
 | [1301-number-of-paths-with-max-score](https://github.com/hardikkmishraa/leetcode_problem/tree/master/1301-number-of-paths-with-max-score) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/hardikkmishraa/leetcode_problem/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/hardikkmishraa/leetcode_problem/tree/master/3620-network-recovery-pathways) |
 ## Math
 |  |
@@ -73,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0344-reverse-string) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/hardikkmishraa/leetcode_problem/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -114,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/hardikkmishraa/leetcode_problem/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/hardikkmishraa/leetcode_problem/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/hardikkmishraa/leetcode_problem/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/hardikkmishraa/leetcode_problem/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/hardikkmishraa/leetcode_problem/tree/master/3620-network-recovery-pathways) |
 ## Matrix
 |  |
@@ -129,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/hardikkmishraa/leetcode_problem/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/hardikkmishraa/leetcode_problem/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/hardikkmishraa/leetcode_problem/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
@@ -147,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/hardikkmishraa/leetcode_problem/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/hardikkmishraa/leetcode_problem/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->
