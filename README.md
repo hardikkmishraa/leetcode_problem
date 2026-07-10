@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0009-palindrome-number) |
+| [0319-bulb-switcher](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0319-bulb-switcher) |
 | [0509-fibonacci-number](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0509-fibonacci-number) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/hardikkmishraa/leetcode_problem/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/hardikkmishraa/leetcode_problem/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -158,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/hardikkmishraa/leetcode_problem/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
