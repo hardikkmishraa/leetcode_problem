@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/hardikkmishraa/leetcode_problem/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/hardikkmishraa/leetcode_problem/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/hardikkmishraa/leetcode_problem/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/hardikkmishraa/leetcode_problem/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/hardikkmishraa/leetcode_problem/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/hardikkmishraa/leetcode_problem/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/hardikkmishraa/leetcode_problem/tree/master/3620-network-recovery-pathways) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0509-fibonacci-number) |
 | [1301-number-of-paths-with-max-score](https://github.com/hardikkmishraa/leetcode_problem/tree/master/1301-number-of-paths-with-max-score) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/hardikkmishraa/leetcode_problem/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/hardikkmishraa/leetcode_problem/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/hardikkmishraa/leetcode_problem/tree/master/3620-network-recovery-pathways) |
 ## Math
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0009-palindrome-number) |
 | [0319-bulb-switcher](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0319-bulb-switcher) |
 | [0509-fibonacci-number](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0509-fibonacci-number) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/hardikkmishraa/leetcode_problem/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/hardikkmishraa/leetcode_problem/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/hardikkmishraa/leetcode_problem/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String
@@ -174,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/hardikkmishraa/leetcode_problem/tree/master/1291-sequential-digits) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/hardikkmishraa/leetcode_problem/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
