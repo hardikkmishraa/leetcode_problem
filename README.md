@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0053-maximum-subarray) |
+| [0628-maximum-product-of-three-numbers](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0912-sort-an-array) |
 | [1260-shift-2d-grid](https://github.com/hardikkmishraa/leetcode_problem/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/hardikkmishraa/leetcode_problem/tree/master/1288-remove-covered-intervals) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0912-sort-an-array) |
 | [1288-remove-covered-intervals](https://github.com/hardikkmishraa/leetcode_problem/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/hardikkmishraa/leetcode_problem/tree/master/1331-rank-transform-of-an-array) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0009-palindrome-number) |
 | [0319-bulb-switcher](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0319-bulb-switcher) |
 | [0509-fibonacci-number](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/hardikkmishraa/leetcode_problem/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/hardikkmishraa/leetcode_problem/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/hardikkmishraa/leetcode_problem/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
