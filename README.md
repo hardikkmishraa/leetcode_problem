@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0912-sort-an-array) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0912-sort-an-array) |
 | [1288-remove-covered-intervals](https://github.com/hardikkmishraa/leetcode_problem/tree/master/1288-remove-covered-intervals) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0319-bulb-switcher) |
 | [0509-fibonacci-number](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0628-maximum-product-of-three-numbers) |
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0268-missing-number) |
 | [1331-rank-transform-of-an-array](https://github.com/hardikkmishraa/leetcode_problem/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/hardikkmishraa/leetcode_problem/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3312-sorted-gcd-pair-queries](https://github.com/hardikkmishraa/leetcode_problem/tree/master/3312-sorted-gcd-pair-queries) |
@@ -193,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0268-missing-number) |
 | [3312-sorted-gcd-pair-queries](https://github.com/hardikkmishraa/leetcode_problem/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/hardikkmishraa/leetcode_problem/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/hardikkmishraa/leetcode_problem/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -221,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0268-missing-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/hardikkmishraa/leetcode_problem/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/hardikkmishraa/leetcode_problem/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/hardikkmishraa/leetcode_problem/tree/master/3534-path-existence-queries-in-a-graph-ii) |
