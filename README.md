@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0088-merge-sorted-array) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0268-missing-number) |
 | [1331-rank-transform-of-an-array](https://github.com/hardikkmishraa/leetcode_problem/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/hardikkmishraa/leetcode_problem/tree/master/1358-number-of-substrings-containing-all-three-characters) |
