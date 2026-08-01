@@ -1,10 +1,14 @@
 class Solution:
     def rearrangeArray(self, nums: List[int]) -> List[int]:
-        #brute force
-        pos=[x for x in nums if x>=0]
-        neg=[x for x in nums if x<=0]
-
-        for i in range(0,len(pos)):
-            nums[2*i]=pos[i]
-            nums[(2*i)+1]=neg[i]
-        return nums
+        #optimal soln:
+        n1=len(nums)
+        res=[0]*n1
+        p,n=0,1 #p->positive index, n-> negative index
+        for i in range(0,n1):
+            if nums[i]>=0:
+                res[p]=nums[i]
+                p+=2
+            else:
+                res[n]=nums[i]
+                n+=2
+        return  res
