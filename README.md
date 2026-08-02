@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0128-longest-consecutive-sequence) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0268-missing-number) |
 | [1331-rank-transform-of-an-array](https://github.com/hardikkmishraa/leetcode_problem/tree/master/1331-rank-transform-of-an-array) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0073-set-matrix-zeroes) |
 | [1260-shift-2d-grid](https://github.com/hardikkmishraa/leetcode_problem/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/hardikkmishraa/leetcode_problem/tree/master/1301-number-of-paths-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/hardikkmishraa/leetcode_problem/tree/master/3286-find-a-safe-walk-through-a-grid) |
