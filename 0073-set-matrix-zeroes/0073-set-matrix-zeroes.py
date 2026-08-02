@@ -1,30 +1,22 @@
-from typing import List
-
 class Solution:
-    def mark_infinity(self, matrix, row, col):
-        rows = len(matrix)
-        cols = len(matrix[0])
-
-        # Mark the entire column
-        for i in range(rows):
-            if matrix[i][col] != 0:
-                matrix[i][col] = float("inf")
-
-        # Mark the entire row
-        for j in range(cols):
-            if matrix[row][j] != 0:
-                matrix[row][j] = float("inf")
-
     def setZeroes(self, matrix: List[List[int]]) -> None:
-        rows = len(matrix)
-        cols = len(matrix[0])
+        """
+        Do not return anything, modify matrix in-place instead.
+        """
+        #optimal soln...use row track and col track...jaha pr bhi 0 mile suke row and col index ko -1 pr set kr dnege aur phir baad me jaha jaha -1 rahega usko zero me convert kr denge
+        r=len(matrix)
+        c=len(matrix[0])
+        row_track=[0 for _ in range(r)]
+        col_track=[0 for _ in range(c)]
 
-        for i in range(rows):
-            for j in range(cols):
-                if matrix[i][j] == 0:
-                    self.mark_infinity(matrix, i, j)
-
-        for i in range(rows):
-            for j in range(cols):
-                if matrix[i][j] == float("inf"):
-                    matrix[i][j] = 0
+        #zero dundho aur row_track nd col_track ko -1 pr set kro
+        for i in range(0,r):
+            for j in range(0,c):
+                if matrix[i][j]==0:
+                    row_track[i]=-1
+                    col_track[j]=-1
+        # ab jaha pr -1 h udr zero krdo 
+        for i in range(0,r):
+            for j in range(0,c):
+                if row_track[i]==-1 or col_track[j]==-1:
+                    matrix[i][j]=0
