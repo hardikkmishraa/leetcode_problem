@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0053-maximum-subarray) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0628-maximum-product-of-three-numbers) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0125-valid-palindrome) |
