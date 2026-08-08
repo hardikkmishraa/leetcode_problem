@@ -1,5 +1,6 @@
 class Solution:
     def searchInsert(self, nums: List[int], target: int) -> int:
+        #binary seach lower bound
         n=len(nums)
         lb=n
         low=0
