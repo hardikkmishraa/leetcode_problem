@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0011-container-with-most-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/hardikkmishraa/leetcode_problem/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/hardikkmishraa/leetcode_problem/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2029-stone-game-ix](https://github.com/hardikkmishraa/leetcode_problem/tree/master/2029-stone-game-ix) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0088-merge-sorted-array) |
