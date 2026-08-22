@@ -366,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0155-min-stack) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/hardikkmishraa/leetcode_problem/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
@@ -420,4 +421,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/hardikkmishraa/leetcode_problem/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
