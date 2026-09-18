@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0268-missing-number) |
 | [1386-cinema-seat-allocation](https://github.com/hardikkmishraa/leetcode_problem/tree/master/1386-cinema-seat-allocation) |
@@ -489,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0078-subsets) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/hardikkmishraa/leetcode_problem/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Nim Game
 |  |
