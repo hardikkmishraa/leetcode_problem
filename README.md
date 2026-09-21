@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0344-reverse-string) |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0078-subsets) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/hardikkmishraa/leetcode_problem/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Nim Game
@@ -539,4 +542,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/hardikkmishraa/leetcode_problem/tree/master/1401-circle-and-rectangle-overlapping) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
