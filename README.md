@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0912-sort-an-array) |
+| [1096-brace-expansion-ii](https://github.com/hardikkmishraa/leetcode_problem/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/hardikkmishraa/leetcode_problem/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/hardikkmishraa/leetcode_problem/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hardikkmishraa/leetcode_problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0344-reverse-string) |
 | [0940-distinct-subsequences-ii](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/hardikkmishraa/leetcode_problem/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/hardikkmishraa/leetcode_problem/tree/master/1096-brace-expansion-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/hardikkmishraa/leetcode_problem/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/hardikkmishraa/leetcode_problem/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/hardikkmishraa/leetcode_problem/tree/master/1927-sum-game) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0141-linked-list-cycle) |
 | [0268-missing-number](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0268-missing-number) |
+| [1096-brace-expansion-ii](https://github.com/hardikkmishraa/leetcode_problem/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/hardikkmishraa/leetcode_problem/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/hardikkmishraa/leetcode_problem/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/hardikkmishraa/leetcode_problem/tree/master/1386-cinema-seat-allocation) |
@@ -334,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/hardikkmishraa/leetcode_problem/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/hardikkmishraa/leetcode_problem/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/hardikkmishraa/leetcode_problem/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/hardikkmishraa/leetcode_problem/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -470,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0155-min-stack) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/hardikkmishraa/leetcode_problem/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/hardikkmishraa/leetcode_problem/tree/master/1096-brace-expansion-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -520,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0078-subsets) |
 | [0216-combination-sum-iii](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0216-combination-sum-iii) |
+| [1096-brace-expansion-ii](https://github.com/hardikkmishraa/leetcode_problem/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/hardikkmishraa/leetcode_problem/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Nim Game
 |  |
