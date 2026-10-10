@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0486-predict-the-winner) |
+| [0503-next-greater-element-ii](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0704-binary-search) |
 | [0835-image-overlap](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0835-image-overlap) |
@@ -501,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0232-implement-queue-using-stacks) |
+| [0503-next-greater-element-ii](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -514,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0503-next-greater-element-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/hardikkmishraa/leetcode_problem/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Segment Tree
 |  |
