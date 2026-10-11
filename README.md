@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0735-asteroid-collision) |
 | [0835-image-overlap](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0877-stone-game) |
+| [0904-fruit-into-baskets](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0912-sort-an-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/hardikkmishraa/leetcode_problem/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/hardikkmishraa/leetcode_problem/tree/master/1140-stone-game-ii) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0141-linked-list-cycle) |
 | [0268-missing-number](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0268-missing-number) |
+| [0904-fruit-into-baskets](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0904-fruit-into-baskets) |
 | [1096-brace-expansion-ii](https://github.com/hardikkmishraa/leetcode_problem/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/hardikkmishraa/leetcode_problem/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/hardikkmishraa/leetcode_problem/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/hardikkmishraa/leetcode_problem/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/hardikkmishraa/leetcode_problem/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/hardikkmishraa/leetcode_problem/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
