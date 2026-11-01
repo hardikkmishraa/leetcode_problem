@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0735-asteroid-collision) |
 | [0835-image-overlap](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0835-image-overlap) |
+| [0860-lemonade-change](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0912-sort-an-array) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0678-valid-parenthesis-string) |
+| [0860-lemonade-change](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/hardikkmishraa/leetcode_problem/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/hardikkmishraa/leetcode_problem/tree/master/1386-cinema-seat-allocation) |
