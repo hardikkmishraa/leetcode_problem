@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0185-department-top-three-salaries](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0185-department-top-three-salaries) |
+| [0197-rising-temperature](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0197-rising-temperature) |
 | [0550-game-play-analysis-iv](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0550-game-play-analysis-iv) |
 | [1757-recyclable-and-low-fat-products](https://github.com/hardikkmishraa/leetcode_problem/tree/master/1757-recyclable-and-low-fat-products) |
 ## Array
