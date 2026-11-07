@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0628-maximum-product-of-three-numbers) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0125-valid-palindrome) |
 | [0301-remove-invalid-parentheses](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0389-find-the-difference) |
 | [0678-valid-parenthesis-string](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0141-linked-list-cycle) |
 | [0268-missing-number](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0389-find-the-difference) |
 | [0904-fruit-into-baskets](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0904-fruit-into-baskets) |
 | [1096-brace-expansion-ii](https://github.com/hardikkmishraa/leetcode_problem/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/hardikkmishraa/leetcode_problem/tree/master/1331-rank-transform-of-an-array) |
@@ -544,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0389-find-the-difference) |
 | [1386-cinema-seat-allocation](https://github.com/hardikkmishraa/leetcode_problem/tree/master/1386-cinema-seat-allocation) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/hardikkmishraa/leetcode_problem/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/hardikkmishraa/leetcode_problem/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
