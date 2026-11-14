@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0389-find-the-difference) |
+| [0443-string-compression](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0443-string-compression) |
 | [0678-valid-parenthesis-string](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0709-to-lower-case) |
 | [0856-score-of-parentheses](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0856-score-of-parentheses) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0876-middle-of-the-linked-list) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/hardikkmishraa/leetcode_problem/tree/master/1385-find-the-distance-value-between-two-arrays) |
