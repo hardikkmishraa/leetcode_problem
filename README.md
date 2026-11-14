@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0053-maximum-subarray) |
@@ -702,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0078-subsets) |
 | [0216-combination-sum-iii](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0216-combination-sum-iii) |
