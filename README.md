@@ -566,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0543-diameter-of-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/hardikkmishraa/leetcode_problem/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/hardikkmishraa/leetcode_problem/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/hardikkmishraa/leetcode_problem/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -782,6 +783,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0543-diameter-of-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/hardikkmishraa/leetcode_problem/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/hardikkmishraa/leetcode_problem/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/hardikkmishraa/leetcode_problem/tree/master/3331-find-subtree-sizes-after-changes) |
@@ -789,6 +791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0543-diameter-of-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/hardikkmishraa/leetcode_problem/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/hardikkmishraa/leetcode_problem/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Geometry
@@ -843,4 +846,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/hardikkmishraa/leetcode_problem/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
