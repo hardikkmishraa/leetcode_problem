@@ -494,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0199-binary-tree-right-side-view) |
 | [0301-remove-invalid-parentheses](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/hardikkmishraa/leetcode_problem/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/hardikkmishraa/leetcode_problem/tree/master/1254-number-of-closed-islands) |
@@ -569,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0543-diameter-of-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/hardikkmishraa/leetcode_problem/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/hardikkmishraa/leetcode_problem/tree/master/1267-count-servers-that-communicate) |
@@ -788,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0543-diameter-of-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/hardikkmishraa/leetcode_problem/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/hardikkmishraa/leetcode_problem/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -798,6 +801,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0543-diameter-of-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/hardikkmishraa/leetcode_problem/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/hardikkmishraa/leetcode_problem/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
