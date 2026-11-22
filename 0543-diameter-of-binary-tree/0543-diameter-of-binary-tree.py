@@ -5,7 +5,7 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    diameter=0
+    
     def height(self,root):
         if not root:
             return 0
