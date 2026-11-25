@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0912-sort-an-array) |
+| [0994-rotting-oranges](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/hardikkmishraa/leetcode_problem/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/hardikkmishraa/leetcode_problem/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/hardikkmishraa/leetcode_problem/tree/master/1254-number-of-closed-islands) |
@@ -500,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0199-binary-tree-right-side-view) |
 | [0301-remove-invalid-parentheses](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0301-remove-invalid-parentheses) |
+| [0994-rotting-oranges](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0994-rotting-oranges) |
 | [1096-brace-expansion-ii](https://github.com/hardikkmishraa/leetcode_problem/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/hardikkmishraa/leetcode_problem/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/hardikkmishraa/leetcode_problem/tree/master/1267-count-servers-that-communicate) |
@@ -525,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0073-set-matrix-zeroes) |
 | [0835-image-overlap](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0835-image-overlap) |
+| [0994-rotting-oranges](https://github.com/hardikkmishraa/leetcode_problem/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/hardikkmishraa/leetcode_problem/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/hardikkmishraa/leetcode_problem/tree/master/1260-shift-2d-grid) |
 | [1267-count-servers-that-communicate](https://github.com/hardikkmishraa/leetcode_problem/tree/master/1267-count-servers-that-communicate) |
