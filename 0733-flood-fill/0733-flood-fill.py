@@ -1,26 +1,9 @@
 
-# from copy import deepcopy
-# from typing import List
-
-#usnig dfs with recursion
+from collections import deque
+from copy import deepcopy
 
 class Solution:
-    def dfs(self, i, j, new_color, initial_color, visited, rows, cols):
-
-        if i < 0 or i >= rows or j < 0 or j >= cols:
-            return
-
-        if visited[i][j] != initial_color:
-            return
-
-        visited[i][j] = new_color
-
-        self.dfs(i+1, j, new_color, initial_color, visited, rows, cols)
-        self.dfs(i-1, j, new_color, initial_color, visited, rows, cols)
-        self.dfs(i, j+1, new_color, initial_color, visited, rows, cols)
-        self.dfs(i, j-1, new_color, initial_color, visited, rows, cols)
-
-    def floodFill(self, image: List[List[int]], sr: int, sc: int, color: int) -> List[List[int]]:
+    def floodFill(self, image: list[list[int]], sr: int, sc: int, color: int) -> list[list[int]]:
 
         if image[sr][sc] == color:
             return image
@@ -32,6 +15,27 @@ class Solution:
 
         initial_color = visited[sr][sc]
 
-        self.dfs(sr, sc, color, initial_color, visited, rows, cols)
+        queue = deque()
+        queue.append((sr, sc))
+
+        # Mark starting cell immediately
+        visited[sr][sc] = color
+
+        while queue:
+            i, j = queue.popleft()
+
+            for x, y in [(-1,0), (1,0), (0,-1), (0,1)]:
+                new_i = i + x
+                new_j = j + y
+
+                if new_i < 0 or new_i >= rows or new_j < 0 or new_j >= cols:
+                    continue
+
+                if visited[new_i][new_j] != initial_color:
+                    continue
+
+                # Mark before adding to queue
+                visited[new_i][new_j] = color
+                queue.append((new_i, new_j))
 
         return visited
